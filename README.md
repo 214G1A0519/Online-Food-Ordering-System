@@ -1,4 +1,4 @@
-# Online-Food-Ordering-System
+Online-Food-Ordering-System
 Dir Structure:
 
 templates       -(folder for keeping all html file and css file. Its not for design step only. 
